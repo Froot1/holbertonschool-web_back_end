@@ -33,7 +33,7 @@ File: [0-list_databases](0-list_databases/)
 Write a script that lists all databases in MongoDB.
 
 ```sh
-guillaume@ubuntu:~/0x0D$ cat 0-list_databases | mongo
+guillaume@ubuntu:~/$ cat 0-list_databases | mongo
 MongoDB shell version v3.6.3
 connecting to: mongodb://127.0.0.1:27017
 MongoDB server version: 3.6.3
