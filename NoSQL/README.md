@@ -1,3 +1,7 @@
+<p align="center">
+<img width="520" align="center" altlt="Image" src="https://github.com/user-attachments/assets/5091aa62-66d9-4514-94d9-9714bfa3bffa" />
+</p>
+
 # Requirements
 
 ## MongoDB Command File
