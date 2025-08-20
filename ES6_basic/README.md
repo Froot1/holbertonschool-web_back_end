@@ -132,7 +132,7 @@ Don’t forget to run'npm install' from the terminal of your project folder to i
 ## Task
 
 **0. Const or let?**
-File: [0-constants.js](0-constants.js/) - [0-main.js](0-main.js/)
+File: [0-constants.js](0-constants.js/)
 
 Modify
 
@@ -172,7 +172,7 @@ bob@dylan:~$
 ```
 
 **1. Block Scope**
-File: [1-block-scoped.js](1-block-scoped.js/) - [1-main.js](1-main.js/)
+File: [1-block-scoped.js](1-block-scoped.js/)
 
 Given what you’ve read about var and hoisting, modify the variables inside the function taskBlock so that the variables aren’t overwritten inside the conditional block.
 
@@ -205,7 +205,7 @@ bob@dylan:~$
 ```
 
 **2. Arrow functions**
-File: [2-arrow.js](2-arrow.js/) - [2-main.js](2-main.js/)
+File: [2-arrow.js](2-arrow.js/)
 
 Rewrite the following standard function to use ES6’s arrow syntax of the function add (it will be an anonymous function after)
 
@@ -236,7 +236,7 @@ bob@dylan:~$
 ```
 
 **3. Parameter defaults**
-File: [3-default-parameter.js](3-default-parameter.js/) - [3-main.js](3-main.js/)
+File: [3-default-parameter.js](3-default-parameter.js/)
 
 Condense the internals of the following function to 1 line - without changing the name of each function/variable.
 
@@ -273,7 +273,7 @@ bob@dylan:~$
 ```
 
 **4. Rest parameter syntax for functions**
-File: [4-rest-parameter.js](4-rest-parameter.js/) - [4-main.js](4-main.js/)
+File: [4-rest-parameter.js](4-rest-parameter.js/)
 
 Modify the following function to return the number of arguments passed to it using the rest parameter syntax
 
@@ -305,7 +305,7 @@ bob@dylan:~$
 ```
 
 **5. The wonders of spread syntax**
-File: [5-spread-operator.js](5-spread-operator.js/) - [5-main.js](5-main.js/)
+File: [5-spread-operator.js](5-spread-operator.js/)
 
 Using spread syntax, concatenate 2 arrays and each character of a string by modifying the function below. Your function body should be one line long.
 
@@ -332,7 +332,7 @@ bob@dylan:~$
 ```
 
 **6. Take advantage of template literals**
-File: [6-string-interpolation.js](6-string-interpolation.js/) - [6-main.js](6-main.js/)
+File: [6-string-interpolation.js](6-string-interpolation.js/)
 
 Rewrite the return statement to use a template literal so you can the substitute the variables you’ve defined.
 
@@ -365,7 +365,7 @@ bob@dylan:~$
 ```
 
 **7. Object property value shorthand syntax**
-File: [7-getBudgetObject.js](7-getBudgetObject.js/) - [7-main.js](7-main.js/)
+File: [7-getBudgetObject.js](7-getBudgetObject.js/)
 
 Notice how the keys and the variable names are the same?
 
@@ -397,7 +397,7 @@ bob@dylan:~$
 ```
 
 **8. No need to create empty objects before adding in properties**
-File: [8-getBudgetCurrentYear.js](8-getBudgetCurrentYear.js/) - [8-main.js](8-main.js/)
+File: [8-getBudgetCurrentYear.js](8-getBudgetCurrentYear.js/)
 
 Rewrite the getBudgetForCurrentYear function to use ES6 computed property names on the budget object
 
@@ -432,7 +432,7 @@ bob@dylan:~$
 ```
 
 **9. ES6 method properties**
-File: [9-getFullBudget.js](9-getFullBudget.js/) - [9-main.js](9-main.js/)
+File: [9-getFullBudget.js](9-getFullBudget.js/)
 
 Rewrite getFullBudgetObject to use ES6 method properties in the fullBudget object
 
@@ -473,7 +473,7 @@ bob@dylan:~$
 ```
 
 **10. For...of Loops**
-File: [10-loops.js](10-loops.js/) - [10-main.js](10-main.js/)
+File: [10-loops.js](10-loops.js/)
 
 Rewrite the function appendToEachArrayValue to use ES6’s for...of operator. And don’t forget that var is not ES6-friendly.
 
@@ -502,7 +502,7 @@ bob@dylan:~$
 ```
 
 **11. Iterator**
-File: [11-createEmployeesObject.js](11-createEmployeesObject.js/) - [11-main.js](11-main.js/)
+File: [11-createEmployeesObject.js](11-createEmployeesObject.js/)
 
 Write a function named createEmployeesObject that will receive two arguments:
 
@@ -538,7 +538,7 @@ bob@dylan:~$
 ```
 
 **12. Let's create a report object**
-File: [12-createReportObject.js](12-createReportObject.js/) - [12-main.js](12-main.js/)
+File: [12-createReportObject.js](12-createReportObject.js/)
 
 Write a function named createReportObject whose parameter, employeesList, is the return value of the previous function createEmployeesObject.
 
@@ -588,7 +588,7 @@ bob@dylan:~$
 ```
 
 **13. Iterating through report objects**
-File: [100-createIteratorObject.js](100-createIteratorObject.js/) - [100-main.js](100-main.js/)
+File: [100-createIteratorObject.js](100-createIteratorObject.js/)
 
 Write a function named createIteratorObject, that will take into argument a report Object created with the previous function createReportObject.
 
@@ -630,7 +630,7 @@ bob@dylan:~$
 ```
 
 **14. Iterate through object**
-File: [101-iterateThroughObject.js](101-iterateThroughObject.js/) - [101-main.js](101-main.js/)
+File: [101-iterateThroughObject.js](101-iterateThroughObject.js/) 
 
 Finally, write a function named iterateThroughObject. The function’s parameter reportWithIterator is the return value from createIteratorObject.
 
@@ -701,4 +701,3 @@ bob@dylan:~$
 * __Fahad Alonazi__ <[Froot1](https://github.com/Froot1)>
 
 * GitHub: [Froot1](https://github.com/Froot1)
-
